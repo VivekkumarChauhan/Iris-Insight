@@ -34,7 +34,7 @@
 │       └── app.js                              # JavaScript file for API interaction
 │
 └── templates/                                   # Directory for HTML templates
-    └── index.html                              # Main HTML file for the web interface
+        └── index.html                              # Main HTML file for the web interface
  ```
 
 ## Installation Guide
@@ -77,7 +77,11 @@ On macOS/Linux:
     python app.py
 ```
 The application will start on http://127.0.0.1:5000/.
+
+
 6.**Access the Web Interface Open your web browser and navigate to http://127.0.0.1:5000/. You can now input flower measurements and classify them using the KNN or Logistic Regression models.**
+
+
 ##Usage
 1.**Enter the sepal length, sepal width, petal length, and petal width in the input fields.**
 2.**Click on "Classify" to get the predicted species of the iris flower.**
