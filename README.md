@@ -1,6 +1,6 @@
 # Iris Insight
 
-**Iris Insight** is an interactive web application designed to classify iris flower species based on sepal and petal dimensions using machine learning algorithms like K-Nearest Neighbors and Logistic Regression. It provides users with an intuitive interface to input data and receive immediate classification results.
+**Iris Insight** is an interactive web application designed to classify iris flower species based on sepal and petal dimensions using machine learning algorithms like K-Nearest Neighbors and Logistic Regression. It provides users with an intuitive interface to input data and receive immediate classification results hshehe.
 
 ## Project Description
 
